@@ -1,6 +1,8 @@
-## The BTP Police Service are looking to understand how their stop and search policies have changed over time
+## api_police_data
 
-**The latest data is available through the public [Police Data API](https://data.police.uk/docs/method/stops-force/)**
+**The BTP Police Service are looking to understand how their stop and search policies have changed over time**
+
+The latest data is available through the public [Police Data API](https://data.police.uk/docs/method/stops-force/)
 
 Your task is to complete following steps
 
